@@ -1,2 +1,1 @@
-# git-curso
-Proyecto git 
+# Es una prueba de como funciona GIT#
