@@ -1,0 +1,27 @@
+{
+  "name": "tienda",
+  "version": "1.0.0",
+  "description": "Maqueta Tienda virtual",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yleyesb0321/git-curso.git"
+  },
+  "author": "Yecid Leyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yleyesb0321/git-curso/issues"
+  },
+  "homepage": "https://github.com/Yleyesb0321/git-curso#readme"
+}
