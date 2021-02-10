@@ -63,6 +63,10 @@ button{
     margin-bottom: 5px;
     margin-left:  15px;
 }
+.product-container h3{
+    text-align: center;
+}
+
 .button-add {
    
     background-color: #fff;
